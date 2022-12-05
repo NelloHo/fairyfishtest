@@ -1,1 +1,3 @@
 pyffish==0.0.72
+matplotlib
+PySimpleGUI
